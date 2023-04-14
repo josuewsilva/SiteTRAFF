@@ -1,0 +1,22 @@
+@media(max-width: 768px){
+    .media01{
+        display: none;
+    }
+
+    .media02{
+        border: none;
+    }
+
+    .media03{
+        margin-left: auto;
+        margin-bottom: 30px;
+    }
+
+    .media04{
+        margin-left: 20%;
+    }
+
+    .media05{
+        display: none;
+    }
+}

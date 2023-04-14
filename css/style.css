@@ -1,0 +1,72 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-geral{
+    background-color: #3f0071;
+    height: 100vh;
+}
+
+.redes-centralizadas{
+    margin-left: 15%;
+}
+
+.nav-link{
+    color: aliceblue;
+    border-bottom: 2px solid transparent;
+    transition: 05.s;
+}
+
+.nav-link:hover{
+    color: #3ecaca;
+    border-bottom: 2px solid aliceblue;
+    transition: 0.2;
+}
+
+.titulo-header{
+    font-size: 4em;
+}
+
+/*Sessão de cards*/
+.fundo-card{
+    color: aliceblue;
+    background-color: #3f0071;
+}
+
+.servicos .card{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+/*Sessão de o que fazemos*/
+
+#fazemos{
+    background-color: #3f0071;
+    color: aliceblue;
+}
+
+.borda{
+    border: 1px solid aliceblue;
+    padding-left: 0;
+}
+
+.espaco{
+    padding: 0px;
+}
+
+/*Seção quem-somos*/
+.quem-somos-paragrafo{
+    margin-top: 2%;
+}
+
+
+.rodape{
+    background-color: #3f0071;
+    color: aliceblue;
+}
